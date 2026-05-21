@@ -1,0 +1,219 @@
+# depslib dependency file v1.0
+1775242704 source:c:\users\student\documents\comp100 prac 5 model\project\main.cpp
+	<iostream>
+	<memory>
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"OrderProcessor.h"
+
+1775070879 c:\users\student\documents\comp100 prac 5 model\project\include\product.h
+	<string>
+
+1775070879 c:\users\student\documents\comp100 prac 5 model\project\include\taxableproduct.h
+	"Product.h"
+
+1775070879 c:\users\student\documents\comp100 prac 5 model\project\include\discountedproduct.h
+	"Product.h"
+
+1775070879 source:c:\users\student\documents\comp100 prac 5 model\project\src\discountedproduct.cpp
+	"DiscountedProduct.h"
+
+1775070879 source:c:\users\student\documents\comp100 prac 5 model\project\src\taxableproduct.cpp
+	"TaxableProduct.h"
+
+1775223198 source:c:\users\student\documents\comp100 prac 5 model\project\src\product.cpp
+	"Product.h"
+
+1775298868 source:c:\users\student\documents\comp100 prac 5 model\project\src\inventory.cpp
+	"Inventory.h"
+	<map>
+	<memeory>
+	<mutex>
+	"Product.h"
+
+1775240848 c:\users\student\documents\comp100 prac 5 model\project\include\inventory.h
+	<iostream>
+	<map>
+	<vector>
+	<memory>
+	<mutex>
+	<algorithm>
+	"Product.h"
+
+1775224715 source:c:\users\student\documents\comp100 prac 5 model\project\src\order.cpp
+	<iostream>
+	<string>
+
+1775222059 c:\users\student\documents\comp100 prac 5 model\project\include\order.h
+	<iostream>
+	<string>
+
+1775212212 c:\users\student\documents\comp100 prac 5 model\project\include\orderitem.h
+
+1775212339 source:c:\users\student\documents\comp100 prac 5 model\project\src\orderitem.cpp
+	"OrderItem.h"
+	<string>
+
+1775222059 c:\users\student\documents\comp100 prac 5 model\project\include\orderprocessor.h
+	<iostream>
+	<vector>
+	<thread>
+	<mutex>
+	<random>
+	"Order.h"
+	"Inventory.h"
+
+1775298882 source:c:\users\student\documents\comp100 prac 5 model\project\src\orderprocessor.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<mutex>
+	<random>
+	"Order.h"
+	"Inventory.h"
+
+1777454699 source:c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\main.cpp
+	<iostream>
+	<memory>
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"OrderProcessor.h"
+	<cctype>
+	<algorithm>
+
+1777455633 c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\include\inventory.h
+	<iostream>
+	<map>
+	<vector>
+	<memory>
+	<mutex>
+	<algorithm>
+	"Product.h"
+
+1775320925 c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\include\product.h
+	<string>
+
+1775320925 c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\include\taxableproduct.h
+	"Product.h"
+
+1775320924 c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\include\discountedproduct.h
+	"Product.h"
+
+1777456278 c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\include\orderprocessor.h
+	<iostream>
+	<vector>
+	<thread>
+	<mutex>
+	<random>
+	"Order.h"
+	"Inventory.h"
+
+1775320925 c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\include\order.h
+	<iostream>
+	<string>
+
+1775320925 source:c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\src\discountedproduct.cpp
+	"DiscountedProduct.h"
+
+1777455633 source:c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\src\inventory.cpp
+	"Inventory.h"
+	<map>
+	<memeory>
+	<mutex>
+	"Product.h"
+
+1775320925 source:c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\src\order.cpp
+	<iostream>
+	<string>
+
+1777456278 source:c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\src\orderprocessor.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<mutex>
+	<random>
+	"Order.h"
+	"Inventory.h"
+
+1775320925 source:c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\src\product.cpp
+	"Product.h"
+
+1775320925 source:c:\users\siphamandla mbobo\onedrive - university of kwazulu-natal\comp315project\project\src\taxableproduct.cpp
+	"TaxableProduct.h"
+
+1777661328 source:c:\users\student\downloads\projecttosubmit\project\src\discountedproduct.cpp
+	"DiscountedProduct.h"
+
+1777661328 c:\users\student\downloads\projecttosubmit\project\include\discountedproduct.h
+	"Product.h"
+
+1777661328 c:\users\student\downloads\projecttosubmit\project\include\product.h
+	<string>
+
+1777673038 source:c:\users\student\downloads\projecttosubmit\project\src\inventory.cpp
+	"Inventory.h"
+	<map>
+	<memeory>
+	<mutex>
+	"Product.h"
+
+1777814937 c:\users\student\downloads\projecttosubmit\project\include\inventory.h
+	<iostream>
+	<map>
+	<vector>
+	<memory>
+	<mutex>
+	<algorithm>
+	"Product.h"
+
+1777816358 source:c:\users\student\downloads\projecttosubmit\project\src\order.cpp
+	<iostream>
+	<iomanip>
+	<string>
+
+1777813616 source:c:\users\student\downloads\projecttosubmit\project\src\orderprocessor.cpp
+	<iostream>
+	<vector>
+	<thread>
+	<mutex>
+	<random>
+	<iomanip>
+	"Order.h"
+	"Inventory.h"
+
+1777816872 c:\users\student\downloads\projecttosubmit\project\include\order.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1777661328 source:c:\users\student\downloads\projecttosubmit\project\src\product.cpp
+	"Product.h"
+
+1777661328 source:c:\users\student\downloads\projecttosubmit\project\src\taxableproduct.cpp
+	"TaxableProduct.h"
+
+1777661328 c:\users\student\downloads\projecttosubmit\project\include\taxableproduct.h
+	"Product.h"
+
+1777816622 source:c:\users\student\downloads\projecttosubmit\project\main.cpp
+	<iostream>
+	<memory>
+	"Inventory.h"
+	"TaxableProduct.h"
+	"DiscountedProduct.h"
+	"OrderProcessor.h"
+	<cctype>
+	<algorithm>
+
+1777814953 c:\users\student\downloads\projecttosubmit\project\include\orderprocessor.h
+	<iostream>
+	<vector>
+	<thread>
+	<iomanip>
+	<mutex>
+	<random>
+	"Order.h"
+	"Inventory.h"
+
